@@ -7,7 +7,7 @@
     position: relative;
     display: flex;
 }
-.input-box{
+.box{
     margin-left: 156px;
 }
 p{
@@ -22,9 +22,27 @@ p{
 }
 input{
     border: none;
+    border-left: 1px solid #003d61;
     border-bottom: 1px solid #003d61;
     outline: none;
     width: 400px;
     height: 40px;
     margin-bottom: 14px;
+}
+h4{
+    display: flex;
+    justify-content: center;
+    color: #003D61;
+    margin-top: 25px;
+}
+a{
+    color: hotpink;
+}
+.icons{
+    display: flex;
+    justify-content: center;
+}
+.icons img{
+    margin-left: 71px;
+    margin-top: 30px;
 }
