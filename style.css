@@ -10,11 +10,6 @@
 .input-box{
     margin-left: 156px;
 }
-.input{
-    border-radius: 12%;
-    color: rgba(255, 251, 251, 0.74);;
-    flex-direction: column;
-}
 p{
     font-size: 20px;
     font-weight: 600;
@@ -31,4 +26,5 @@ input{
     outline: none;
     width: 400px;
     height: 40px;
+    margin-bottom: 14px;
 }
