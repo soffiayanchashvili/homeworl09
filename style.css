@@ -3,3 +3,32 @@
     padding: 0px;
     box-sizing: border-box;
 }
+.background{
+    position: relative;
+    display: flex;
+}
+.input-box{
+    margin-left: 156px;
+}
+.input{
+    border-radius: 12%;
+    color: rgba(255, 251, 251, 0.74);;
+    flex-direction: column;
+}
+p{
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 27px;
+    letter-spacing: 0.06em;
+    text-align: center;
+    height: 27px;
+    width: 109px;
+    color: #003d61;
+}
+input{
+    border: none;
+    border-bottom: 1px solid #003d61;
+    outline: none;
+    width: 400px;
+    height: 40px;
+}
